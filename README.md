@@ -43,7 +43,7 @@
      print("A is for apple")
 
  # add the attribute
- a.addAttr("printA", a_print)
+ a.addMethod(a_print)
 
  # refresh the object
  a_object = a.getObj()

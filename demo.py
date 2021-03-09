@@ -27,6 +27,6 @@ print(appleObj.crunchy)
 def applePrint():
     print("I love apples")
 
-idealApple.addAttr("apples", applePrint)
+idealApple.addMethod(applePrint)
 appleObj = idealApple.getObj()
-appleObj.apples()
+appleObj.applePrint()
