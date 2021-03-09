@@ -1,7 +1,7 @@
 # pyJsObject
  Javascript type objects in Python
 
-# Usage
+## Usage
  To make a new `JsObject`:
  ```python
  import jsobj
