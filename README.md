@@ -1,4 +1,4 @@
-# pyJsObject
+# Javascript objects in Python
  Javascript type objects in Python
 
 ## Usage
