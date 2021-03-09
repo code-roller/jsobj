@@ -35,3 +35,19 @@
  ```python
  a_object = a.getObj()
  ```
+
+ To add a method to the object (can also be used to refresh the object after the dictionary is changed):
+ ```python
+ # define your method as a normal function
+ def a_print():
+     print("A is for apple")
+
+ # add the attribute
+ a.addAttr("printA", a_print)
+
+ # refresh the object
+ a_object = a.getObj()
+
+ # call the method (optional)
+ a_object.printA()
+ ```
