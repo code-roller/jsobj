@@ -51,3 +51,16 @@
  # call the method (optional)
  a_object.printA()
  ```
+ 
+ ## Credits
+ Made by these members of the Code Rollerr team C=
+ 
+ <table>
+	<tr>
+		<td>
+			<a href="https://github.com/code-roller/jsobj/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-roller/jsobj" />
+</a>
+		</td>
+	</tr>
+</table>
