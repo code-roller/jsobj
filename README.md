@@ -53,7 +53,7 @@
  ```
  
  ## Credits
- Made by these members of the Code Rollerr team C=
+ Made by these members of the Code Roller team C=
  
  <table>
 	<tr>
